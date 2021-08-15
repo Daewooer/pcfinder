@@ -1,5 +1,5 @@
 
-print("pc finder advanced booting up")
+print("pc finder simple booting up")
 print("tell us your budget (300$-80$0)")
 user_input = input()
 if user_input == "300$":
